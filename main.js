@@ -1,0 +1,1 @@
+const faleConosco = document.getElementById('faleConosco');
